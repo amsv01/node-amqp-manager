@@ -1,0 +1,21 @@
+{
+  "name": "node-amqp-manager",
+  "version": "0.1.0",
+  "description": "An AMQP manager based on Node.js AMQP",
+  "main": "index.js",
+  "repository": "git@github.com:mousavi86/node-amqp-manager.git",
+  "author": "Amin Mousavi <tigmin@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "4.1.0",
+    "eslint": "4.3.0",
+    "husky": "0.14.3",
+    "mocha": "3.4.2",
+    "nyc": "11.0.3",
+    "sinon": "2.4.1",
+    "sinon-chai": "2.12.0"
+  },
+  "dependencies": {
+    "amqplib": "0.5.1"
+  }
+}
